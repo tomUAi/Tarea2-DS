@@ -42,18 +42,18 @@ nav a:hover{
 
 .rtx-3060 {
     background-image: url(/Img/geforce-rtx-3060-ti-product-gallery-full-screen-3840-2-bl.jpg);
-    background-size: cover; /* Escala la imagen para cubrir todo el contenedor */
-    background-position: center; /* Centra la imagen en el contenedor */
-    width: 600px; /* Ancho del contenedor */
-    height: 200px; /* Alto del contenedor */
+    background-size: cover; 
+    background-position: center; 
+    width: 600px; 
+    height: 200px; 
     margin: 0 auto;
 }
 
 
 main {
     background-color: rgb(255 255 255 / 0.60);
-    width: 800px; /* Ancho del contenedor */
-    height: 680px; /* Alto del contenedor */
+    width: 800px; 
+    height: 700px; 
     margin: 0 auto;
     border-radius: 20px;
     -webkit-border-radius: 15px;
@@ -160,4 +160,7 @@ ul {
     font-weight: bold;
     background-color: white;
     border-style: none;
+}
+h3 {
+    text-align: center;
 }
